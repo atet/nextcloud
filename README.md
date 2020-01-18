@@ -2,4 +2,4 @@
 
 **Nextcloud v17.0.2 directory for Introduction to Virtualization:**<br>https://github.com/atet/learn/tree/master/virtual#atet--learn--virtual
 
-* Mextcloud is a free, open-source file sharing service: https://nextcloud.com/
+* Nextcloud is a free, open-source file sharing service: https://nextcloud.com/
